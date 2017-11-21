@@ -35,4 +35,30 @@ Quest 1
 Após alguns dias vivendo e trabalhando em Stirhal, os heróis se despedem de
 Excess Prime, que irá seguir com sua filha para sua casa. Mas antes de ir embora
 ele entrega a Zeno um possível paradeiro de Shone e para Trygon, um paradeiro
-dos que atacaram sua ilha.
+dos que atacaram sua ilha. Paralelamente, Zaphod é avisado por Tricia através de
+um informante que a missão dele está próxima de se iniciar, mas que será
+necessário realizar um reconhecimento na área.
+Nesse momento cada um deles deverá seguir a trilha que lhe compete. Haverá uma
+trilha de competência.
+
+Trygon seguirá a trilha da Might, irá se envolver com uma espécie de clube da
+luta onde irá enfrentar alguns inimigos para adquirir uma informação.
+
+Zeno seguirá a trilha do Intellect, irá se envolver em uma investigação
+interrogando e deduzindo motivo de pistas.
+
+Zaphod seguirá a trilha do Reflex, irá se envolver em uma busca stelth em que
+seguirá um abhumano que teria a informação sobre a arma G1.
+
+Ambas as trilhas culminaram no paradeiro de Quanon, que já estará aguardando
+por eles (pois têm um circuito de sensores em toda Stirthal que monitora as
+atividades das pessoas).
+
+Quanon irá fornecer a informação que cada um deles precisa, com a condição de que
+eles resolvam um problema para ele:
+
+  Existe uma torre no alto de Stirthal, ela, misteriosamente começou a emitir um
+sinal estranho capitado por ele, como ele está fora de capacidade física para
+ir até lá, precisa de ajuda de pessoas bem treinadas para lhe dar com o risco.
+E ele sabe que existe um risco. Esse sinal está atrapalhando suas experiências
+com fontes de energia, e desligar esse sinal é extremamente importante para ele.
